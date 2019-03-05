@@ -14,3 +14,4 @@ Beers:
 8. Sun - Alc. 9.6 % vol. - Red Devil Ale - 2017
 9. Eclipse - Alc. 8 % vol. - Black Ipa - 2018 (Second tap)
 10. Dark Matter - Alc. 4.3 % vol. - Porter - 2018 (Third tap)
+11. Halley's Comet - Alc. 8.4% vol. - Christmas Ale - 2018 (Fourth tap)
