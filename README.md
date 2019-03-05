@@ -12,7 +12,7 @@ Beers:
 6.  Jupiter                       Alc.  5.7 % vol.    Weissebier       2017
 7.  Halley's Comet, it's back!    Alc.  8.6 % vol.    Christmas Ale    2017  (1st tap)
 8.  Sun                           Alc.  9.6 % vol.    Red Devil Ale    2017
-9.  Eclipse                       Alc.  8   % vol.    Black Ipa        2018  (2nd tap)
+9.  Eclipse                       Alc.  8.0 % vol.    Black IPA        2018  (2nd tap)
 10. Dark Matter                   Alc.  4.3 % vol.    Porter           2018  (3rd tap)
 11. Halley's Comet                Alc.  8.4 % vol.    Christmas Ale    2018  (4th tap)
 ```
