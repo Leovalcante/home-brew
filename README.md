@@ -15,5 +15,5 @@ Beers:
 9.  Eclipse                       Alc.  8.0 % vol.    Black IPA        2018  (2nd tap)
 10. Dark Matter                   Alc.  4.3 % vol.    Porter           2018  (3rd tap)
 11. Halley's Comet                Alc.  8.4 % vol.    Christmas Ale    2018  (4th tap)
-12. Pluto			  Alc. ??.? % vol.    Pilsner	       2019  (5th tap?) // TODO
+12. Pluto			  Alc.  5.6 % vol.    Pilsner	       2019  (5th tap)
 ```
