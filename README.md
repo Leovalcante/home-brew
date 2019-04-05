@@ -1,5 +1,5 @@
 # home-brew
-Beer labels repository - Mav's brewery
+Beer labels repository - Valerrrrrr brewery
 
 
 Beers:
