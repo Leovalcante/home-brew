@@ -1,8 +1,8 @@
 # home-brew
-Beer labels repository - Valerrrrrr brewery
+Beer labels repository of **Valerrrrrr brewery**
 
 
-Beers:
+## Beers:
 ```
 1.  Moon                          Alc.  4.5 % vol.    IPA              2014
 2.  Europa                        Alc.  4.5 % vol.    IPA              2014
@@ -17,3 +17,8 @@ Beers:
 11. Halley's Comet                Alc.  8.4 % vol.    Christmas Ale    2018  (4th tap)
 12. Pluto			  Alc.  5.6 % vol.    Pilsner	       2019  (5th tap)
 ```
+
+
+## Social account:
+ - Telegram: https://t.me/valerrrrrr_brewery
+ - Untappd: https://untappd.com/ValerrrrrrBrewery
