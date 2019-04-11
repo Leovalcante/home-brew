@@ -1,5 +1,5 @@
 # home-brew
-Beer labels repository of **Valerrrrrr brewery**
+Beer labels repository of **Valerrr brewery**
 
 
 ## Beers:
@@ -20,5 +20,5 @@ Beer labels repository of **Valerrrrrr brewery**
 
 
 ## Social account:
- - Telegram: https://t.me/valerrrrrr_brewery
- - Untappd: https://untappd.com/ValerrrrrrBrewery
+ - Telegram: https://t.me/valerrr_brewery
+ - Untappd: https://untappd.com/ValerrrBrewery
