@@ -15,7 +15,10 @@ Beer labels repository of **Valerrr brewery**
 9.  Eclipse                       Alc.  8.0 % vol.    Black IPA        2018  (2nd tap)
 10. Dark Matter                   Alc.  4.3 % vol.    Porter           2018  (3rd tap)
 11. Halley's Comet                Alc.  8.4 % vol.    Christmas Ale    2018  (4th tap)
-12. Pluto			  Alc.  5.6 % vol.    Pilsner	       2019  (5th tap)
+12. Pluto                         Alc.  5.6 % vol.    Pilsner          2019  (5th tap)
+13. Venus                         Alc.  5.7 % vol.    IPA              2019
+14. Black Hole                    Alc.  4.8 % vol.    Irish Stout      2019
+15. Halley's Comet (light)        Alc.  2.7 % vol.    Christmas Ale    2019
 ```
 
 
