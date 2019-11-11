@@ -6,7 +6,7 @@ Beer labels repository of **Valerrr brewery**
 ```
 1.  Moon                          Alc.  4.5 % vol.    IPA              2014
 2.  Europa                        Alc.  4.5 % vol.    IPA              2014
-3.  Black Hole                    Alc.  3.8 % vol.    Irish Stout      2015
+3.  Black Hole                    Alc.  3.8 % vol.    Irish Stout      2015  [1st E+G]
 4.  Mercury                       Alc.  8.6 % vol.    Belgian Ale      2016
 5.  Halley's Comet                Alc. 10.4 % vol.    Christmas Ale    2016
 6.  Jupiter                       Alc.  5.7 % vol.    Weissebier       2017
@@ -18,7 +18,7 @@ Beer labels repository of **Valerrr brewery**
 12. Pluto                         Alc.  5.6 % vol.    Pilsner          2019  (5th tap)
 13. Venus                         Alc.  5.7 % vol.    IPA              2019
 14. Black Hole                    Alc.  4.8 % vol.    Irish Stout      2019
-15. Halley's Comet (light)        Alc.  2.7 % vol.    Christmas Ale    2019
+15. Halley's Comet (light)        Alc.  2.7 % vol.    Christmas Ale    2019  [1st All Grain]
 ```
 
 
